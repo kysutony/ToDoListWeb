@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^read$ read.php
+RewriteRule ^create$ create.php
+RewriteRule ^getavatar$ getavatar.php
+RewriteRule ^email$ email.php

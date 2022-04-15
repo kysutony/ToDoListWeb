@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteRule ^all$ all.php
+RewriteRule ^todo$ todo.php
+RewriteRule ^finish$ finish.php
+RewriteRule ^pin$ pin.php
+RewriteRule ^delete$ delete.php
+RewriteRule ^showpin$ showpin.php
+RewriteRule ^add$ add.php
+RewriteRule ^showinlistpin$ showinlistpin.php
+RewriteRule ^updatetodo$ updatetodo.php

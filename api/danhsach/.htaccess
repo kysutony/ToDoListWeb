@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^all$ all.php
+RewriteRule ^addlist$ addlist.php
+RewriteRule ^delete$ delete.php
+RewriteRule ^updatelist$ updatelist.php
